@@ -16,7 +16,7 @@ def main():
     image=Image.open('cereal2.jpg')
     st.image(image,use_column_width=True)
     html_temp = """
-    <div style="background-color:teal; padding:10px">
+    <div style="background-color:teal; padding:5px">
     <h2 style="color:white;text-align:center;">Find The Most Suitable Crop</h2>
     </div>
     """
