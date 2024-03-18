@@ -13,7 +13,7 @@ def classify(answer):
 
 def main():
     st.title("KrishiVeer (Crop Recommendation System)...")
-    image=Image.open('cc.jpg')
+    image=Image.open('cereal2.jpg')
     st.image(image)
     html_temp = """
     <div style="background-color:teal; padding:10px">
