@@ -14,7 +14,7 @@ def classify(answer):
 def main():
     st.title("KrishiVeer (Crop Recommendation System)...")
     image=Image.open('cereal2.jpg')
-    st.image(image)
+    st.image(image,use_column_width=True)
     html_temp = """
     <div style="background-color:teal; padding:10px">
     <h2 style="color:white;text-align:center;">Find The Most Suitable Crop</h2>
