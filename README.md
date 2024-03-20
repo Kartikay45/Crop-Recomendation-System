@@ -1,6 +1,8 @@
 # KrishiVeer (Crop-Recomendation System)
 
 site link-->(https://crop-deploy-mpypwjkxqd4tipu6bzsgsh.streamlit.app/)
+
+
 Crop recommendation, also known as crop planning or crop selection, involves suggesting the most suitable crops for cultivation in a specific area based on various factors such as soil type, climate conditions, water availability, and market demand. Crop recommendation systems utilize data analytics, machine learning algorithms, and domain knowledge to provide personalized recommendations to farmers, agronomists, and agricultural stakeholders.Crop recommendation systems are valuable tools in agriculture for several reasons:
 
 --> Increased Productivity: By recommending the most suitable crops for a particular location based on  factors like soil type, climate conditions, and water availability, these systems help farmers maximize their yield potential.
